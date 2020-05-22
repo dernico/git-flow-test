@@ -1,4 +1,4 @@
 das ist der start
 
 - das ist ein change von myfeature
-- das ist ein change von second feature
+- das ist ein change von develop
