@@ -4,4 +4,4 @@ das ist der start
 - das ist ein change von develop
 - das ist der richtige change von second feature
 - change on dev to see if git flow release will take this over to the release branch
-- change on next-relase
+- change on next-release
